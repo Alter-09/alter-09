@@ -11,19 +11,16 @@
 <h2> / current skills / </h2>
 
 - <h4> languages </h4>
-  <img src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt = "py" />
-  <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt = "html" />
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+  [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+    [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
   
   - <h5> currently learning </h5>
+    [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
   
-    <img src = "https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt = "git" />
-  
-- <h4> Other skills/hobbies </h4>
-  
-  <img src = "https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" alt = "Lightroom" />
-  
-  <img src = "https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt = "Lightroom" />
+- <h4> Other skills </h4>
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+[![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](#)
 
 
-
-Last Edited on: 07/02/2026
+Last Edited on: 14/03/2026
