@@ -15,7 +15,7 @@
 </div>
 
  <h5 align="center">
-   <i>⚡️If you can imagine, you can build⚡️</i>
+   <i>⚡️If you can imagine, you can build it⚡️</i>
   </h5>
   
 <br />
