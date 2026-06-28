@@ -9,42 +9,34 @@
                                              /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
                                             /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
                                             \/__/         \/__/         \/__/     \/__/     \/__/    
+<h1 align="left" id="macropower-title">:wave: Hello there! I'm Diego León 🇨🇴</h1>
+<h3 align="left">I do Full Stack Development, AI coding and learning a lot everyday</h3>
+
+<a href="#macropower-title"><img src="https://github-readme-stats.vercel.app/api?username=Alter-09&theme=shadow_red&show_icons=true" alt="alt" align="right" /></a>
+
+- :office: &nbsp;I'm currently working at **MySQL**
+- :seedling: &nbsp;My languages are Native Spanish and C1 English
+- :speech_balloon: &nbsp;I like to talk about **Motorsport** and other Cool stuff about life
+- :book: &nbsp;Learn more about my projects on my **[blog - coming soon]**
+
+<br>
+<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+
+> Tools, languages, and other things that I like to work with.
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Diego León | 💻 Full Stack Developer | 🛸 Colombia <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+	<table>
+		<tr>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code></td>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/></code></td>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code></td>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code></td>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/></code></td>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code></td>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/></code></td>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/></code></td>
+		</tr>
+	</table>
 </div>
 
- <h5 align="center">
-   <i>⚡️If you can imagine, you can build it⚡️</i>
-  </h5>
-  
-<br />
-<img align="right" height="300px" width="300px" alt="GIF" src="https://www.thisiscolossal.com/wp-content/uploads/2024/01/spherewave.gif" />
-<p align="center">
-  <h3>Welcome to my little corner of the world.</h3>
-</p>
-
- - 🥀 Learning SQL
-   
- - Into a lot of stuff to even write them here :)
-
- - Into High Energy Physics and Astrophysics, i love shooting stars too.
- 
- - I do fullstack and a bit of everything
- 
- - All About living life at its best.
-<!--  -->
-### - Languages and Tools...
-
-<p align="center">
-  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
-</p>
-
- ### - my stats
-![Alter's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alter-09)](https://github.com/anuraghazra/github-readme-stats)
+You're welcome to take a look on my recent projects ;)
