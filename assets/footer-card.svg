@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" role="img" aria-label="06_CONNECTION_TERMINAL">
+  <defs>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#FFFFFF" stroke-opacity=".055" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#E5092A"/>
+      <stop offset="1" stop-color="#6D0618"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="170" rx="18" fill="#09090B"/>
+  <rect x="1.5" y="1.5" width="1197" height="167" rx="17" fill="url(#grid)" stroke="#E5092A" stroke-width="2"/>
+  <rect x="2" y="2" width="1196" height="48" rx="16" fill="#151518"/>
+  <path d="M2 50 H1198" stroke="#E5092A" stroke-opacity=".9"/>
+  <circle cx="25" cy="26" r="6" fill="#E5092A"/>
+  <circle cx="47" cy="26" r="6" fill="#FFFFFF" fill-opacity=".8"/>
+  <circle cx="69" cy="26" r="6" fill="#777777"/>
+  <text x="94" y="31" fill="#FFFFFF" font-family="Consolas, Courier New, monospace" font-size="16" letter-spacing="1.5">06_CONNECTION_TERMINAL</text>
+  <text x="1174" y="31" text-anchor="end" fill="#E5092A" font-family="Consolas, Courier New, monospace" font-size="12">END OF TRANSMISSION</text>
+
+  <text x="50" y="103" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="23" font-weight="700">Interested in building something together?</text>
+  <text x="50" y="135" fill="#BDBDC2" font-family="Consolas, Courier New, monospace" font-size="14">OPEN A CONNECTION // GITHUB.COM/ALTER-09</text>
+  <rect x="930" y="82" width="220" height="48" rx="5" fill="#E5092A"/>
+  <text x="1040" y="112" text-anchor="middle" fill="#FFFFFF" font-family="Consolas, Courier New, monospace" font-size="16" font-weight="700">CONNECT →</text>
+</svg>
