@@ -1,4 +1,5 @@
 <img width="800" height="300" alt="header" src="https://github.com/user-attachments/assets/0c407581-9cba-46d1-a078-47f8dca58167" />
+<img width="2402" height="1760" alt="41G15" src="https://github.com/user-attachments/assets/23db80f7-3b80-44a9-984d-eeb48e113820" />
 <img width="800" height="340" alt="about" src="https://github.com/user-attachments/assets/351bdd93-39d6-4b28-9099-ce048536326e" />
 
 <img width="800" height="266" alt="skills" src="https://github.com/user-attachments/assets/4aa343ed-6abd-4531-b099-7dd6f98e8c0c" />
